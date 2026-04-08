@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dianluna.github.io/ojolstream/sitemap.xml
